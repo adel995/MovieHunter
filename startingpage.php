@@ -207,7 +207,7 @@
 
 
                 <div class="container">
-                    <label for="fpass"><b>Please enter your e-mail address so we can send you the password</b></label>
+                    <label for="fpass"><b>Please enter your email address so we can send you the password</b></label>
                     <input type="text" placeholder="Enter your E-mail" name="email" required>
 
 
